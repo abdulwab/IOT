@@ -1,0 +1,33 @@
+Drill report for MCUPCB.kicad_pcb
+Created on 9/3/2023 2:21:42 AM
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'MCUPCB-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.200mm  0.0079"  (12 holes)
+    T2  0.400mm  0.0157"  (96 holes)
+    T3  0.600mm  0.0236"  (4 holes)
+    T4  0.750mm  0.0295"  (96 holes)
+    T5  0.800mm  0.0315"  (318 holes)
+    T6  0.900mm  0.0354"  (64 holes)
+    T7  1.000mm  0.0394"  (66 holes)
+    T8  1.020mm  0.0402"  (2 holes)  (with 2 slots)
+    T9  1.100mm  0.0433"  (69 holes)
+    T10  1.200mm  0.0472"  (96 holes)
+    T11  1.520mm  0.0598"  (96 holes)
+    T12  1.600mm  0.0630"  (2 holes)
+
+    Total plated holes count 921
+
+
+Drill file 'MCUPCB-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0

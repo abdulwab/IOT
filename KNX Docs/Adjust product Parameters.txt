@@ -1,0 +1,36 @@
+Before we actually show how to download the configuration to the devices, we will learn how to configure some device parameters. Although the parameter dialog differs from manufacturer to manufacturer, the basic functionality remains the same. Let’s assume we want to change the default behavior of the push button. But, where can this be done? What you want to do is change to the parameter tab here in our buildings view. Now you can configure the details of the push button. Instead of configuring the push buttons A and B separately, we will make one single configuration. 
+
+
+But what if you have made a mistake and you want to compare your settings with the default ones? No worries, just use the function “Highlight Changes” and you will see the changes you have made to the default configuration on the modified fields highlighted in yellow. As a last resort, you can reset the device to the default settings with the function “Default Parameters”. In addition to that, the undo history also logs all changes you have made to the parameter configuration of a device. If we have a look at the switch actuator, we’ll see that it provides even more configuration possibilities.  
+
+
+You just need to select the device, since the parameter tab is already open. Besides some global parameters, the actuator provides general settings and specific functions for both of its output channels. If we want to have a delay on the „off“ function of one of our lights for example, we can change the time function parameter.  
+
+Then we can set the off delay for instance to five seconds. From now on, the first light will be switched off with a five second delay. 
+
+
+
+
+
+
+
+
+
+
+Dear Sir/Madam,
+
+I am writing to express my interest in attending the professional training program offered by the KNX Association. As a professional in the field of building automation and control, I am excited to expand my knowledge and skills in this area, and I believe that the training offered by KNX Association would be an excellent opportunity to do so.
+
+I have a strong background in  Computer Science and electrical engineering, and I have worked on various building automation projects in the past with MQTT Protocol. I am also familiar with KNX technology and have used it in one of my previous project. However, I am eager to deepen my understanding of the technology and its applications through the training offered by KNX Association.
+
+I am particularly interested in the training programs offered by KNX Association, which cover a wide range of topics related to home and building automation, including system design, installation, and programming. I am confident that the knowledge and skills gained from this training will enable me to contribute significantly to the advancement of building automation technology.
+
+I am a highly motivated individual who is committed to professional development and continuous learning. I am confident that the training offered by KNX Association will enable me to achieve my professional goals and contribute to the growth of the industry.
+
+I would be grateful if you could provide me with further information regarding the training program, including the course schedule, fees, and application process. I am also happy to provide any additional information or documentation that may be required to support my application.
+
+Thank you for considering my application. I look forward to hearing back from you soon.
+
+Yours faithfully,
+
+Abdul Wahab
